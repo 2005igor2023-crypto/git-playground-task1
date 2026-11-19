@@ -1,3 +1,4 @@
+I deleted some information from js and json files
 # Огляд незакомічених змін
 
 Стан на момент перевірки (гілка `main`, нічого не закомічено):
